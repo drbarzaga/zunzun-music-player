@@ -45,6 +45,7 @@ Open your browser and go to http://localhost:3000 to see the Zunzun Music Player
 - Bensound API
 
 ## Screenshots
+
 ![image](https://github.com/drbarzaga/minimalist-music-player/assets/12173976/8ae52b8e-47f3-4cb6-a345-df4fb1a82b29)
 
 ![image](https://github.com/drbarzaga/minimalist-music-player/assets/12173976/5211d13c-9631-4d56-84f5-2feb9fc5a488)
