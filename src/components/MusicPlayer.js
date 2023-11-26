@@ -8,12 +8,19 @@ import PlayList from './PlayList'
 import 'animate.css';
 import './MusicPlayer.css'
 import { useTrack } from '../context/TrackContext'
+import { useTheme } from '../context/ThemeContext'
 
 const MusicPlayer = () => {
+    const { isDarkMode } = useTheme()
     const { trackIndex, handlePlayListItemClick, showPlayList } = useTrack()
 
+    const playerStyles = {
+        background: isDarkMode ? '#1e1e1e' : '#ffffff',
+        color: isDarkMode ? '#ffffff' : '#000000',
+    };
+
     return (
-        <div className='music-player'>
+        <div className='music-player' style={playerStyles}>
             <Header onClickPlayList={showPlayList} />
             <div className='music-player-body'>
                 <div className='player'>

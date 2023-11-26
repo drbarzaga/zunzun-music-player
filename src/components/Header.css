@@ -7,6 +7,18 @@
     margin-bottom: 20px;
 }
 
+.player-header-actions {
+    display: flex;
+    align-items: center;
+
+    > button {
+        > svg {
+            width: 25px;
+            height: 25px;
+        }
+    }
+}
+
 .player-title {
     display: flex;
     align-items: center;   
@@ -22,9 +34,4 @@
     border: none;
     background-color: transparent;
     cursor: pointer;
-    
-    > svg {
-        width: 28px;
-        height: 28px;
-    }
 }
