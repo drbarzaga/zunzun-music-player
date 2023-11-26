@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zunzun-music-player/static/css/main.3a82c9b5.css",
+    "main.js": "/zunzun-music-player/static/js/main.3b981d26.js",
+    "index.html": "/zunzun-music-player/index.html",
+    "main.3a82c9b5.css.map": "/zunzun-music-player/static/css/main.3a82c9b5.css.map",
+    "main.3b981d26.js.map": "/zunzun-music-player/static/js/main.3b981d26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a82c9b5.css",
+    "static/js/main.3b981d26.js"
+  ]
+}
