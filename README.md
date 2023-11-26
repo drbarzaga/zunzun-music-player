@@ -49,6 +49,9 @@ Open your browser and go to http://localhost:3000 to see the Zunzun Music Player
 
 ![image](https://github.com/drbarzaga/minimalist-music-player/assets/12173976/5211d13c-9631-4d56-84f5-2feb9fc5a488)
 
+![image](https://github.com/drbarzaga/zunzun-music-player/assets/12173976/9c9c8d40-4a12-445f-8b87-2e700c422eb3)
+
+![image](https://github.com/drbarzaga/zunzun-music-player/assets/12173976/88f89052-ccf3-4d10-baca-feebc040a071)
 
 ## License
 
